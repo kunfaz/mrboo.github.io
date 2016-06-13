@@ -1,17 +1,17 @@
-# Site settings
-title: Clean Blog
+# BOO!! 
+title: BOO!!
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: kunfaz@yahoo.co.id
+copyright_name: kunfaz 2016
+description: "Welcome To BOO!! Feel Free and Enjoy!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+url: "mrboo.github.io"
+twitter_username: koenfaz
+github_username:  kunfaz
+facebook_username:  kungpas
+email_username:  kunfaz@yahoo.co.id
 
-# Build settings
+# BOO!! BuildSettings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
